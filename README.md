@@ -1,4 +1,7 @@
-## Hi there 👋
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksah3756)](https://solved.ac/ksah3756/)
+
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://velog.io/@ksah3756/posts)](https://velog.io/@ksah3756/posts)
+
 
 <!--
 **ksah3756/ksah3756** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
